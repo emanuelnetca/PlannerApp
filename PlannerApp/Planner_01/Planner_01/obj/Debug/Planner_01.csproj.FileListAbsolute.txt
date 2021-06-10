@@ -1,0 +1,288 @@
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.Title.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormHome.resources
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.Title.resources
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormHome.resources
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+C:\Users\andre\Desktop\Modular-Planner-main\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Title.resources
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormHome.resources
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Title.resources
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormHome.resources
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GIT\Proiect_IP\Modular-Planner\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Title.resources
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormHome.resources
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+C:\Users\andre\Desktop\Modular-Planner-1\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andre\Desktop\Modular-Planner\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.Title.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormHome.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormAppointmentData.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.Title.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormAppointmentData.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormHome.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+D:\Facultate\Sem II\IP\Proiect\wetransfer-a6744d\MODULAR_PLANNER_UPDATES_DE_SEARA\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormAppointmentData.resources
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.About.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.About.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Appointment.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.FormAppointmentData.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormAppointmentData.resources
+C:\Users\bluer\Desktop\Facultate\Anul III\Sem II\II IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Interface.resources
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Appointment.resources
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Interface.resources
+C:\Users\andre\Desktop\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.FormAppointmentData.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Appointment.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Interface.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.FormAppointmentData.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.About.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormAppointmentData.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+D:\Facultate\Sem II\IP\Proiect\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.pdb
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe.config
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.exe
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\Planner_01.pdb
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.dll
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.dll
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.dll
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.dll
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\DatabaseConnection.pdb
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\MySqlConnector.xml
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Buffers.xml
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Memory.xml
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csprojAssemblyReference.cache
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Appointment.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Interface.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.FormAppointmentData.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.About.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.Appointment.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormAppointmentData.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Forms.FormCalendar.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.Properties.Resources.resources
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.GenerateResource.cache
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CoreCompileInputs.cache
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.csproj.CopyComplete
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.exe
+C:\Users\bluer\Downloads\PlannerApp\Planner_01\Planner_01\obj\Debug\Planner_01.pdb

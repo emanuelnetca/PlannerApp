@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planner_01", "Planner_01\Planner_01.csproj", "{E7AE61E3-EEE8-4399-BD23-E240DB55B54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnection", "DatabaseConnection\DatabaseConnection.csproj", "{52994706-FB52-47D7-9124-46BF6BF88439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7AE61E3-EEE8-4399-BD23-E240DB55B54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AE61E3-EEE8-4399-BD23-E240DB55B54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AE61E3-EEE8-4399-BD23-E240DB55B54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AE61E3-EEE8-4399-BD23-E240DB55B54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52994706-FB52-47D7-9124-46BF6BF88439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52994706-FB52-47D7-9124-46BF6BF88439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52994706-FB52-47D7-9124-46BF6BF88439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52994706-FB52-47D7-9124-46BF6BF88439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5104B496-B979-4619-A856-51D0D1760D13}
+	EndGlobalSection
+EndGlobal
